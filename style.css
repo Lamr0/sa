@@ -1,0 +1,461 @@
+.body{
+    background-color: #FBFBFB;
+    background-repeat: no-repeat;
+    width: 1800px;
+    height: 904px;
+}
+.container {
+    display: flex;
+}
+.image {
+    width: 26px;
+    height: 16px;
+    margin-top: 62px;
+    margin-right: 34px;
+    margin-left: 71px;
+}
+.text {
+    display: flex;
+    width: 268px;
+    height: 24px; 
+    margin-top: 61px;
+    justify-content: space-between;
+    color:dimgray;
+    font-size: 16px;
+    font-size:large;
+    font-family:"Archivo";
+}
+.mns {
+    display: flex;
+    width: 69px;
+    height: 72px;
+    margin-top: 78px;
+    margin-left: 69px;
+    flex-direction: column;
+    font-size: 16px;
+    font-family:"Archivo";
+    color:dimgray;
+    font-size: larger;
+}
+.search {
+    width: 367px;
+    height: 50px;
+    margin-top: 16px;
+    margin-left: 69px;
+}
+.romb {
+    width: 35px;
+    height: 35px;
+    margin-left: 253px;
+    margin-top: 55px;
+}
+.love {
+    width: 50px;
+    height: 50px;
+    margin-left: 255px;
+    margin-top: 50px;
+}
+.cart {
+    width: 76x;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.paket {
+    width: 50px;
+    height: 50px;
+    margin-left: -2px;
+    margin-top: 50px;
+}
+.im{
+    width: 50px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    font-family:"Archivo",extrabold;
+    margin-top: 144px;
+    margin-left: 69px;
+    font-size: 48px;
+    width: 338px;
+    height: 80px;
+    font-weight: bolder;
+}
+.sum{
+    display: flex;
+    flex-direction: column;
+    font-family:"Archivo";
+    font-size: 16px;
+    color:dimgray;
+    width: 87px;
+    height: 48px;
+    margin-top: 29px;
+    margin-left: 69px;
+}
+.go{
+    width: 265px;
+    height: 40px;
+    margin-left: 69px;
+}
+.gery{
+    width: 40px;
+    height: 40px;
+    margin-left: 113px;
+}
+.garry{
+    width: 40px;
+    height: 40px;
+    margin-left: 7px;
+}
+.frist {
+    width: 366x;
+    height: 376px;
+    margin-top: -90px;
+    margin-left: 11px;
+}
+.scnd {
+    width: 366px;
+    height: 376px;
+    margin-top: -90px;
+    margin-left: 15px;
+}
+.over {
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 1140px;
+    color: #FBFBFB;
+    font-size: 12px;
+    font-family:"Archivo";
+}
+.header1{
+    display: flex;
+    flex-direction: column;
+    font-family:"Archivo",extrabold;
+    font-weight: bolder;
+    margin-top: 150px;
+    margin-left: 69px;
+    font-size: 48px;
+    width: 283px;
+    height: 80px;
+}
+.four {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    list-style: none;
+}
+.third {
+    width: 305px;
+    height: 313px;
+    margin-top: 30px;
+    margin-left: 59px;
+}
+.text2 {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+.five {
+    width: 214px;
+    height: 21px;
+    margin-left: 59px;
+    margin-top: -21px;
+    font-size: 14px;
+    font-family: "Archivo";
+}
+.six {
+    width: 143px;
+    height: 21px;
+    margin-left: 138px;
+    margin-top: -21px;
+    font-size: 14px;
+    font-family: "Archivo";
+}
+.svn {
+    width: 140px;
+    height: 21px;
+    margin-left: 210px;
+    margin-top: -21px;
+    font-size: 14px;
+    font-family: "Archivo";
+}
+.ght {
+    width: 122px;
+    height: 21px;
+    margin-left: 210px;
+    margin-top: -21px;
+    font-size: 14px;
+    font-family: "Archivo";
+}
+.price {
+    width: 26px;
+    height: 21px;
+    margin-top: -24px;
+    font-family: "Archivo",extrabold;
+}
+.text3 {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+.five2 {
+    width: 97px;
+    height: 18px;
+    margin-left: 59px;
+    font-size: 14px;
+    font-family: "Archivo";
+    color: grey;
+}
+.price2 {
+    width: 95px;
+    height: 18px;
+    margin-left: 280px;
+    font-size: 14px;
+    font-family: "Archivo";
+    color: grey;
+}
+.six2 {
+    width: 97px;
+    height: 18px;
+    margin-left: 284px;
+    font-size: 14px;
+    font-family: "Archivo";
+    color: grey;
+}
+.price23 {
+    width: 115px;
+    height: 18px;
+    margin-left: 280px;
+    font-size: 14px;
+    font-family: "Archivo";
+    color: grey;
+}
+.str {
+    width: 92px;
+    height: 40px;
+    margin-left: 765px;
+    margin-top: 24px;
+}
+.text4 {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+.bols {
+    width: 115px;
+    height: 18px;
+    margin-left: 69px;
+    margin-top: 65px;
+    font-size: 16px;
+    font-family: "Archivo",bold;
+}
+.mem {
+    width: 36px;
+    height: 40px;
+    margin-top: 65px;
+    margin-left: 40px;
+    font-size: 16px;
+    font-family: "Archivo";
+    color: grey;
+}
+.wmn{
+    width: 64px;
+    height: 40px;
+    margin-top: 65px;
+    margin-left: 40px;
+    font-size: 16px;
+    font-family: "Archivo";
+    color: grey
+}
+.kd{
+    width: 28px;
+    height: 40px;
+    margin-top: 65px;
+    margin-left: 40px;
+    font-size: 16px;
+    font-family: "Archivo";
+    color: grey
+}
+.line{
+    display: flex;
+    width: 1230px;
+    margin-top: -14px;
+    margin-left: 59px;
+}
+.filt{
+    width: 65px;
+    height: 40px;
+    display: flex;
+    margin-left: 628px;
+    margin-top: 57px;
+    font-family: "Archivo";
+    font-size: 16px;
+}
+.sort{
+    display: flex;
+    width: 53px;
+    height: 40px;
+    margin-left: 109px;
+    margin-top: 57px;
+    font-family: "Archivo";
+    font-size: 16px;
+}
+.sax {
+    width: 205px;
+    height: 21px;
+    margin-left: 200px;
+    font-size: 14px;
+    font-family: "Archivo";
+    margin-top: -21px;
+}
+.thirdd {
+    width: 366px;
+    height: 376px;
+    margin-top: 30px;
+    margin-left: 59px;
+}
+.svvn{
+    width: 187px;
+    height: 21px;
+    margin-left: 188px;
+    font-size: 14px;
+    font-family: "Archivo";
+    margin-top: -21px;
+}
+.pricee{
+    width: 40px;
+    height: 24px;
+    margin-top: -23px;
+    font-family: "Archivo",extrabold;
+}
+.fivee{
+    width: 187px;
+    height: 21px;
+    margin-left: 59px;
+    font-size: 14px;
+    font-family: "Archivo";
+    margin-top: -21px;
+}
+.fqw {
+    width: 105px;
+    height: 18px;
+    margin-left: 59px;
+    font-size: 14px;
+    font-family: "Archivo";
+    color: grey;
+}
+.prc {
+    width: 83px;
+    height: 18px;
+    margin-left: 322px;
+    font-size: 14px;
+    font-family: "Archivo";
+    color: grey;
+}
+.sx {
+    width: 105px;
+    height: 18px;
+    margin-left: 350px;
+    font-size: 14px;
+    font-family: "Archivo";
+    color: grey;
+}
+.more{
+    width: 43px;
+    height: 40px;
+    margin-top: 24px;
+    margin-left: 658px;
+    font-size: 14px;
+    font-family: "Archivo";
+}
+.hdrr {
+    display: flex;
+    font-family:"Archivo",bold;
+    margin-top: 164px;
+    margin-left: 198px;
+    font-size: 68px;
+    width: 1180px;
+    height: 40px;
+}
+.hr {
+    display: flex;
+    font-family:"Archivo";
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 312px;
+    font-size: 16px;
+    width: 685px;
+    height: 96px;
+}
+.els {
+    width: 317px;
+    height: 379px;
+    margin-top: 102px;
+    margin-left: 64px;
+}
+.cls {
+    width: 317px;
+    height: 419px;
+    margin-top: 175px;
+    margin-left: 36px;
+}
+.es {
+    width: 317px;
+    height: 419px;
+    margin-top: 102px;
+    margin-left: 36px;
+}
+.skid {
+    width: 317px;
+    height: 389px;
+    margin-top: 205px;
+    margin-left: 36px;
+}
+.last{
+    display: flex;
+    justify-content: row;
+}
+.fr{
+    width: 345px;
+    height: 243px;
+    margin-top: 273px;
+    margin-left: 389px;
+
+}
+.blast{
+    display: flex;
+    background-image: url(/image/bg.png) ;
+    width: 1440px;
+    height: 628px;
+    margin-top: 147px;
+}
+.est {
+    flex-direction: column;
+    display: flex;
+    width: 67px;
+    height: 89px;
+    font-size: 12px;
+    font-family:"Archivo";
+    color: grey;
+    margin-top: 273px;
+    margin-left: 181px;
+}
+.esst {
+    width: 25px;
+    height: 14px;
+    font-size: 12px;
+    font-family:"Archivo";
+    color: grey;
+}
+.rst{
+    width: 200px;
+    height: 43px;
+    font-size: 12px;
+    font-family:"Archivo";
+    color: grey;
+    padding: 0px;
+    list-style: none;
+}
